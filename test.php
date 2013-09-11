@@ -1,1 +1,1 @@
-Hello edit in new branch
+Hello edit in sample2
